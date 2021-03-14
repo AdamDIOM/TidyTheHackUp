@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidyTheHackUp", "TidyTheHackUp\TidyTheHackUp.csproj", "{CB09A989-2AFF-440B-9EEF-B8281718D987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB09A989-2AFF-440B-9EEF-B8281718D987}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CB09A989-2AFF-440B-9EEF-B8281718D987}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CB09A989-2AFF-440B-9EEF-B8281718D987}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CB09A989-2AFF-440B-9EEF-B8281718D987}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

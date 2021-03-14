@@ -1,0 +1,6 @@
+/Users/adam/Desktop/TidyTheHackUp/TidyTheHackUp/bin/Debug/TidyTheHackUp.exe
+/Users/adam/Desktop/TidyTheHackUp/TidyTheHackUp/bin/Debug/TidyTheHackUp.pdb
+/Users/adam/Desktop/TidyTheHackUp/TidyTheHackUp/obj/Debug/TidyTheHackUp.csprojAssemblyReference.cache
+/Users/adam/Desktop/TidyTheHackUp/TidyTheHackUp/obj/Debug/TidyTheHackUp.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/TidyTheHackUp/TidyTheHackUp/obj/Debug/TidyTheHackUp.exe
+/Users/adam/Desktop/TidyTheHackUp/TidyTheHackUp/obj/Debug/TidyTheHackUp.pdb

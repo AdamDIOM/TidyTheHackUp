@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CB09A989-2AFF-440B-9EEF-B8281718D987}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TidyTheHackUp/Program.cs">
+    <Files>
+      <File FileName="TidyTheHackUp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TidyTheHackUp" expanded="True">
+            <Node name="TidyTheHackUp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.TidyTheHackUp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
